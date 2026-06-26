@@ -64,7 +64,7 @@ My recent research interests include:
 
 ## Work Experience
 
-#### [Postdoctoral Researcher]
+### Postdoctoral Researcher
 
 **Institute of Information Science, Academia Sinica**, Taipei, Taiwan  
 Jan, 2026 – present
@@ -72,7 +72,7 @@ Jan, 2026 – present
 - [Conducts advanced, independent research in areas such as cybersecurity or multimedia forensics, aiming to publish findings in high-impact journals and conferences].
 - [Collaborate with academic partners, mentor junior researchers or students, and contribute to developing research proposals and funded projects].
   
-#### [Visiting Scholar]
+### Visiting Scholar
 
 **National Institute of Informatics**(Yamigishi Lab), Tokyo, Japan  
 July, 2025 – Dec, 2025
@@ -80,7 +80,7 @@ July, 2025 – Dec, 2025
 - [Conducted collaborative research with faculty and research team].
 - [Engaged in academic exchange through seminars, discussions, and knowledge sharing in areas related to machine learning, multimedia forensics, and AI research].
 
-#### [Research Scholar (in collaboration with NTHU)]
+### Research Scholar (in collaboration with NTHU)
 
 **Academia Sinica**, Taipei, Taiwan  
 Sept, 2019 – Dec, 2025
@@ -190,9 +190,7 @@ It forms the basis of several lip-sync–based forgery detection models designed
 
 ## Contact
 
-I am open to collaborations in multimodal AI, audiovisual deepfake detection, human-centered analysis of deepfakes, and interactive forgery systems.
-
-**[Email](hashmiammarah0@example.com)**  
-**[GitHub](https://github.com/ammarahhashmi)** 
-**[Website](https://ammarahhashmi.github.io/)** 
+**Ammarah Hashmi**  
+Academia Sinica, Taiwan  
+Email: [hashmiammarah0@gmail.com]
 

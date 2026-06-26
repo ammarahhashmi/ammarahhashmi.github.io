@@ -61,6 +61,35 @@ My recent research interests include:
 
 ---
 
+
+## Work Experience
+
+### [Postdoctoral Researcher]
+
+**Institute of Information Science, Academia Sinica**, Taipei, Taiwan  
+Jan, 2026 – present
+
+- [Conducts advanced, independent research in areas such as cybersecurity or multimedia forensics, aiming to publish findings in high-impact journals and conferences].
+- [Collaborate with academic partners, mentor junior researchers or students, and contribute to developing research proposals and funded projects].
+- 
+### [Visiting Scholar]
+
+**[Yamigishi Lab](https://yamagishilab.org/), NII**, Tokyo, Japan  
+July, 2025 – Dec, 2025
+
+- [Conducted collaborative research with faculty and research team].
+- [Engaged in academic exchange through seminars, discussions, and knowledge sharing in areas related to machine learning, multimedia forensics, and AI research].
+
+### [Research Scholar (in collaboration with NTHU)]
+
+**Academia Sinica**, Taipei, Taiwan  
+Sept, 2019 – Dec, 2025
+
+- [Conducted independent research, designed and implemented experiments, and contributed to publications in peer-reviewed venues].
+- [Engaged in coursework, seminars, and academic collaboration while developing expertise in a specialized research area].
+
+---
+
 ## Research Interests
 
 - Multimedia forensics and deepfake detection
@@ -137,7 +166,8 @@ It forms the basis of several lip-sync–based forgery detection models designed
 ---
 
 ## Awards and Honors
-
+- Received an invited research grant from NII, Japan. [July 2025 - Dec 2025] 
+- Received a research grant from NTHU. [July 2024 - Dec 2025] 
 - Taiwan Gov. Fellowship for PhD studies, Taiwan Government, [2019-2025]
 - Chinese Gov. Fellowship for MS studies, Chinese Government, [2017-2019]
 - Pakistan Gov. Fellowship for BS studies, Pakistan Government, [2013-2017]
@@ -146,7 +176,7 @@ It forms the basis of several lip-sync–based forgery detection models designed
 - Certificate of Android workshop attended at Comsats University, Pakistan. [2014]
 - Bronze medal for the International Kangaroo Mathematics Contest. [2007]
 - Bronze medal for the International Kangaroo Mathematics Contest. [2006]
-- 3 Certificates of participation in the International Kangaroo Mathematics Contest. [2006-2008].
+- 3 Certificates of participation in the International Kangaroo Mathematics Contest. [2006-2008]
 
 ---
 

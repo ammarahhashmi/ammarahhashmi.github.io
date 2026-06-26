@@ -1,5 +1,5 @@
 # Ammarah Hashmi
-#### Postdoctoral Researcher at Institute of Information Science, [Academia Sinica](https://www.sinica.edu.tw/)
+#### Postdoctoral Researcher | Institute of Information Science, [Academia Sinica](https://www.sinica.edu.tw/)
 | Multimedia Forensics | Deepfake Detection | Speech/Image/Video Processing | Human-centered deepfake analysis | Multimodal AI |
 
 <p>

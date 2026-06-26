@@ -1,5 +1,5 @@
 # Ammarah Hashmi
-### Postdoctoral Researcher at Institute of Information Science, [Academia Sinica](https://www.sinica.edu.tw/)
+#### Postdoctoral Researcher at Institute of Information Science, [Academia Sinica](https://www.sinica.edu.tw/)
 | Multimedia Forensics | Deepfake Detection | Speech/Image/Video Processing | Human-centered deepfake analysis | Multimodal AI |
 
 <p>
@@ -50,9 +50,11 @@ My recent research interests include:
 
 ## Education
 
-- <u>**PhD in CS (Joint PhD Program)**, [2019 – 2025] <br>  Department of Computer Science, [National Tsing Hua University](https://www.nthu.edu.tw/) <br> Institute of Information Science, [Academia Sinica](https://www.sinica.edu.tw/)</u> 
-- <u>**MS in Software Engineering**, [2017 – 2019] <br> Department of Software Engineering, [Beijing Institute of Technology](https://www.bit.edu.cn/)</u>
-- <u>**BS in Software Engineering**, [2013 – 2017] <br> Department of Software Engineering, [Comsats University](https://islamabad.comsats.edu.pk/)</u>
+- **PhD in CS (Joint PhD Program)**, [2019 – 2025] <br>  Department of Computer Science, [National Tsing Hua University](https://www.nthu.edu.tw/) <br> Institute of Information Science, [Academia Sinica](https://www.sinica.edu.tw/)
+
+- **MS in Software Engineering**, [2017 – 2019] <br> Department of Software Engineering, [Beijing Institute of Technology](https://www.bit.edu.cn/)
+
+- **BS in Software Engineering**, [2013 – 2017] <br> Department of Software Engineering, [Comsats University](https://islamabad.comsats.edu.pk/)
 
 ---
 
@@ -67,7 +69,7 @@ My recent research interests include:
 
 ## Selected Projects
 
-### Human Perception of Audiovisual Deepfakes and Cognitive Modeling
+#### Human Perception of Audiovisual Deepfakes and Cognitive Modeling
 
 This project investigates how humans perceive audiovisual deepfakes and how perceptual cues influence detection performance. It better bridges machine learning and human cognition to understand the limitations of both human and AI-based detection systems.
 
@@ -81,7 +83,7 @@ The work highlights perceptual vulnerabilities, decision biases, and alignment b
 
 ---
 
-### Ensemble and Hybrid Architectures for Robust Deepfake Detection
+#### Ensemble and Hybrid Architectures for Robust Deepfake Detection
 
 This line of work focuses on improving generalization in deepfake detection using ensemble learning strategies, multi-expert architectures, and hybrid feature representations across audio and visual modalities.
 
@@ -95,7 +97,7 @@ The goal is to enhance robustness under compression, unseen manipulations, and c
 
 ---
 
-### Audio-Visual Synchronization for Forgery Detection
+#### Audio-Visual Synchronization for Forgery Detection
 
 This project explores audio-visual synchronization as a key signal for detecting manipulated videos. It focuses on lip-sync consistency, cross-modal temporal alignment, and speech-visual correspondence.
 

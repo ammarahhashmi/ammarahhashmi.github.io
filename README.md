@@ -13,7 +13,7 @@
 
 ## About
 
-I am a **postdoctoral researcher** specializing in **multimedia forensics**, **audiovisual deepfake detection**, **multimodal AI**, and **human-centered deepfake analysis**. My research focuses on building practical systems for video forgery detection and analyzing how human judgments differ from AI models in real-world scenarios.
+I am a **postdoctoral researcher** specializing in **Artificial Intelligence Generated Content (AIGC)**, **multimedia forensics**, **audiovisual deepfake detection**, **multimodal AI**, and **human-centered deepfake analysis**. My research focuses on building practical systems for video forgery detection and analyzing how human judgments differ from AI models in real-world scenarios.
 
 My recent research interests include:
 

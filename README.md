@@ -47,7 +47,7 @@ Journal of Imaging
 - **2025.03** — 📃Paper accepted in [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989).
 - **2024.11** — Selected as one of three candidates at NTHU for the international NII internship opportunity.
 - **2024.10** — Served as a reviewer for [IEEE Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297).
-- **2024.07** — Received research grant from [NTHU](https://www.nthu.edu.tw/) [July 2024 - Dec2025].
+- **2024.07** — Received research grant from [NTHU](https://www.nthu.edu.tw/) [July 2024 - Dec 2025].
 - **2024.02** — Served as a reviewer for [IEEE Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297).
 
 ---
@@ -193,5 +193,5 @@ It forms the basis of several lip-sync–based forgery detection models designed
 
 **Ammarah Hashmi**  
 Academia Sinica, Taiwan  
-Email: [hashmiammarah0@gmail.com]
+Email: [hashmiammarah0[at]gmail[dot]com]
 

@@ -26,7 +26,6 @@ My recent research interests include:
 
 ## News
 - **2026.07** — Served as a reviewer for the MDPI journal [Journal of Imaging](https://www.mdpi.com/journal/jimaging).
-Journal of Imaging
 - **2026.06** — Served as a reviewer for the MDPI journal [Future Internet](https://www.mdpi.com/journal/futureinternet).
 - **2026.06** — Served as a reviewer for [IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30).
 - **2026.03** — Served as a reviewer for [International Journal of Human-Computer Interaction](https://www.tandfonline.com/journals/hihc20?utm_source=google&utm_medium=cpc&utm_campaign=S7950554578_APANZC_cross-network&gad_source=1&gad_campaignid=23368560434&gbraid=0AAAAACwvVorAzdU0I6SxldNTRnvhpUf9S&gclid=Cj0KCQjwo_PRBhDNARIsAEcVALXumi14Y7yeibTclkef5wm1VrviywQXwyJ7C9kvfzfRT8j73kmIWKsaAsMOEALw_wcB).

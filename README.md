@@ -25,29 +25,30 @@ My recent research interests include:
 ---
 
 ## News
-
-- **2026.06** — Served as a reviewer for MDPI journal [Future Internet](https://www.mdpi.com/journal/futureinternet).
+- **2026.07** — Served as a reviewer for the MDPI journal [Journal of Imaging](https://www.mdpi.com/journal/jimaging).
+Journal of Imaging
+- **2026.06** — Served as a reviewer for the MDPI journal [Future Internet](https://www.mdpi.com/journal/futureinternet).
 - **2026.06** — Served as a reviewer for [IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30).
 - **2026.03** — Served as a reviewer for [International Journal of Human-Computer Interaction](https://www.tandfonline.com/journals/hihc20?utm_source=google&utm_medium=cpc&utm_campaign=S7950554578_APANZC_cross-network&gad_source=1&gad_campaignid=23368560434&gbraid=0AAAAACwvVorAzdU0I6SxldNTRnvhpUf9S&gclid=Cj0KCQjwo_PRBhDNARIsAEcVALXumi14Y7yeibTclkef5wm1VrviywQXwyJ7C9kvfzfRT8j73kmIWKsaAsMOEALw_wcB).
 - **2026.03** — Served as a reviewer for [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76).
 - **2026.06** — Served as a reviewer for [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021).
 - **2026.01** — Joined [Academia Sinica](https://www.sinica.edu.tw/) as a postdoctoral researcher .
-- **2025.12** — Paper accepted in [IEEE Computational Intelligence Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207).
+- **2026.01** — 🎓Officially received my PhD. degree.
+- **2025.12** — 📃Paper accepted in [IEEE Computational Intelligence Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207).
 - **2025.12** — Successfully defended my Ph.D. dissertation at [Academia Sinica](https://www.sinica.edu.tw/).
 - **2026.06** — Served as a reviewer for [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021).
-- **2025.11** — Received AS postdoctoral fellowship.
-- **2025.10** — Paper accepted in [IEEE Transactions on Human-Machine Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037).
-- **2025.09** — Received NII travel grant to attend IEEE IJCB 2025 (8-11 Sept), held in Osaka, Japan.
+- **2025.11** — Received an AS postdoctoral fellowship [Jan 2026 - Dec 2027].
+- **2025.10** — 📃Paper accepted in [IEEE Transactions on Human-Machine Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037).
+- **2025.09** — Received an NII travel grant to attend IEEE IJCB 2025 (8-11 Sept), held in Osaka, Japan.
 - **2025.08** — Received Research and Travel Grant from [NII, Japan](https://www.nii.ac.jp/) [July - Dec 2025].
 - **2025.07** — Joined [Yamagishi Lab](https://yamagishilab.org/) as an Invited Researcher [June - Dec 2025].
 - **2025.07** — Successfully defended my Ph.D. dissertation at [NTHU](https://www.nthu.edu.tw/).
 - **2025.03** — Completed all Ph.D. graduation requirements and chose to gain practical research experience before officially receiving the degree.
-- **2025.03** — Paper accepted in [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989).
+- **2025.03** — 📃Paper accepted in [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989).
 - **2024.11** — Selected as one of three candidates at NTHU for the international NII internship opportunity.
 - **2024.10** — Served as a reviewer for [IEEE Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297).
-- **2024.07** — Received research project funding from [NTHU](https://www.nthu.edu.tw/).
-- **2024.02** — Served as a reviewer for [IEEE Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297).
 - **2024.07** — Received research grant from [NTHU](https://www.nthu.edu.tw/) [July 2024 - Dec2025].
+- **2024.02** — Served as a reviewer for [IEEE Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297).
 
 ---
 

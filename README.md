@@ -25,6 +25,8 @@ My recent research interests include:
 ---
 
 ## News
+
+- **2026.07** — Served as a reviewer for the journal [CMC-Computers, Materials & Continua](https://www.techscience.com/journal/cmc).
 - **2026.07** — Served as a reviewer for the MDPI journal [Journal of Imaging](https://www.mdpi.com/journal/jimaging).
 - **2026.06** — Served as a reviewer for the MDPI journal [Future Internet](https://www.mdpi.com/journal/futureinternet).
 - **2026.06** — Served as a reviewer for [IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30).
